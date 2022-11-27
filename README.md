@@ -30,7 +30,6 @@ USAGE: bash random_name_picker.sh [OPTIONS]
 ```
 
 # Versions
-Current version: 0.1
 
 Version 0.1 - Initial version with basic functionality to choose 1 word names, or 2 word names.
               Name can be unique or allow duplicates.
