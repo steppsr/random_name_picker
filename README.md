@@ -2,8 +2,8 @@
 
 Create a list of 1 or 2 word random names.
 
-Names may have duplicates unless you use the `-u` command-line option to force the names to be unique.
-You must use the `-i INTEGER` command-line option to tell the script how many names to generate. Also,
+* Names may have duplicates unless you use the `-u` command-line option to force the names to be unique.
+* You must use the `-i INTEGER` command-line option to tell the script how many names to generate. Also,
 the script doesn't check for how many unique names are possible, so if you use a number that is larger
 than the max possible unique names, you will create an endless loop. If this does happen, you'll need
 to break out the program using the Ctrl-C keyboard shortcut.
