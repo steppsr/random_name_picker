@@ -1,9 +1,12 @@
 # random_name_picker
+
 Create a list of 1 or 2 word random names.
 
 Names may have duplicates unless you use the `-u` command-line option to force the names to be unique.
 
 # Command Usage
+
+```
 USAGE: bash random_name_picker.sh [OPTIONS]
 
   OPTIONS
@@ -20,6 +23,7 @@ USAGE: bash random_name_picker.sh [OPTIONS]
    Example for saving to file:
       bash random_name_picker.sh -u -i 10 -f1 firstnames.txt -f2 lastnames.txt > names_list.txt
 
+```
 
 # Versions
 Current version: 0.1
